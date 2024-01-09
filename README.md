@@ -1,7 +1,10 @@
 # Unisports
 ## Applying HCI knowledge by creating an app prototype
 ![IMG_1392 (Small)](https://github.com/toyota-hilux/Unisports/assets/95149044/19416a86-ed7e-4126-b70e-a8dd09f2aa26)
-### Embarking on the Unisports project has been a profound learning experience, navigating through the realms of Human-Computer Interaction (HCI) to develop an app that truly addresses the needs of our university's student community. Here's a glimpse into the enriching journey and lessons learned throughout the process:
+### Embarking on the Unisports project has been a profound learning experience, navigating through the realms of Human-Computer Interaction (HCI) to develop an app prototype in Fgma that truly addresses the needs of our university's student community. 
+### This protoype is accessible [HERE](https://www.figma.com/proto/mbMdouSTpDwZrartaUJXAF/UniSports?type=design&node-id=226-131&t=UE6HeEw8s8OKvnWQ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=226%3A131&mode=design)
+
+#### Here's a glimpse into the enriching journey and lessons learned throughout the process:
 
 **Key Learnings**:
 <img width="400" alt="" src="">
